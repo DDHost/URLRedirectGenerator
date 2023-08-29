@@ -1,5 +1,5 @@
 # URLRedirectGenerator
-A tool generates a google linked redirection
+A tool generates a google link redirection
 
 ## How To
 Enter the link you desire to be redirected and Enter<br/>
